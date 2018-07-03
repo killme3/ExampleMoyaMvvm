@@ -1,0 +1,11 @@
+framework module FormatDate {
+  umbrella header "FormatDate-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FormatDate.Swift {
+    header "FormatDate-Swift.h"
+    requires objc
+}

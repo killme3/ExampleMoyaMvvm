@@ -1,0 +1,10 @@
+framework module YNFormattedDate {
+  umbrella header "YNFormattedDate-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module YNFormattedDate.__Swift {
+    exclude header "YNFormattedDate-Swift.h"
+}

@@ -1,0 +1,11 @@
+framework module YNMFormattedDate {
+  umbrella header "YNMFormattedDate-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module YNMFormattedDate.Swift {
+    header "YNMFormattedDate-Swift.h"
+    requires objc
+}

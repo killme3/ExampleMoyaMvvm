@@ -1,0 +1,10 @@
+framework module FormatDate {
+  umbrella header "FormatDate-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FormatDate.__Swift {
+    exclude header "FormatDate-Swift.h"
+}

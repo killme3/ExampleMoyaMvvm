@@ -7,15 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B130B0820A5420E000F7D6C /* SearchTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B130B0720A5420E000F7D6C /* SearchTableViewController.swift */; };
+		7B130B0B20A54EFC000F7D6C /* Example-Bridging-Header.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B130B0A20A54EFC000F7D6C /* Example-Bridging-Header.m */; };
+		7B130B0E20A54F49000F7D6C /* CustomObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B130B0D20A54F49000F7D6C /* CustomObject.m */; };
+		7B130B1220A5748D000F7D6C /* UITextField + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B130B1120A5748D000F7D6C /* UITextField + Extension.swift */; };
+		7B130B1420A59A11000F7D6C /* poster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B130B1320A59A11000F7D6C /* poster.jpg */; };
+		7B230C4B20E0CFCA009D2610 /* YNMFormattedDate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B230C4A20E0CFCA009D2610 /* YNMFormattedDate.framework */; };
+		7B230C5320E1FD81009D2610 /* IconFormattedDate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B230C5220E1FD81009D2610 /* IconFormattedDate.framework */; };
+		7BAB4C6120EA2EBA00624845 /* NoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB4C6020EA2EBA00624845 /* NoTableViewController.swift */; };
+		7BAB4C6320EA32CD00624845 /* NoTableViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB4C6220EA32CD00624845 /* NoTableViewModel.swift */; };
+		7BB9DF9220A29CEB006DD318 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB9DF9120A29CEB006DD318 /* HomeViewController.swift */; };
+		D9DC5D0B7791639D612D6873 /* Pods_ExampleMoya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACC4BF29EC74DEAD844E8A94 /* Pods_ExampleMoya.framework */; };
+		FE533D5D209AEDD000C04BE4 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE533D5C209AEDD000C04BE4 /* Comment.swift */; };
+		FEE9D56D20996556002CFB28 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE9D56C20996556002CFB28 /* Contact.swift */; };
+		FEE9D57520999CCE002CFB28 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE9D57420999CCE002CFB28 /* NetworkManager.swift */; };
+		FEE9D5772099A4F6002CFB28 /* ContactTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE9D5762099A4F6002CFB28 /* ContactTableViewCell.swift */; };
+		FEE9D5792099A8A8002CFB28 /* ContactViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE9D5782099A8A8002CFB28 /* ContactViewModel.swift */; };
 		FEED33E62096E900002DE50E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEED33E52096E900002DE50E /* AppDelegate.swift */; };
 		FEED33E82096E900002DE50E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEED33E72096E900002DE50E /* ViewController.swift */; };
 		FEED33EB2096E900002DE50E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEED33E92096E900002DE50E /* Main.storyboard */; };
 		FEED33EE2096E900002DE50E /* ExampleMoya.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FEED33EC2096E900002DE50E /* ExampleMoya.xcdatamodeld */; };
 		FEED33F02096E900002DE50E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEED33EF2096E900002DE50E /* Assets.xcassets */; };
 		FEED33F32096E900002DE50E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEED33F12096E900002DE50E /* LaunchScreen.storyboard */; };
+		FEED33FB2096EA69002DE50E /* MyServerAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEED33FA2096EA69002DE50E /* MyServerAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C8972BCD3DA0D078C9FE955 /* Pods-ExampleMoya.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExampleMoya.release.xcconfig"; path = "Pods/Target Support Files/Pods-ExampleMoya/Pods-ExampleMoya.release.xcconfig"; sourceTree = "<group>"; };
+		7B130B0720A5420E000F7D6C /* SearchTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewController.swift; sourceTree = "<group>"; };
+		7B130B0920A54EFB000F7D6C /* ExampleMoya-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ExampleMoya-Bridging-Header.h"; sourceTree = "<group>"; };
+		7B130B0A20A54EFC000F7D6C /* Example-Bridging-Header.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Example-Bridging-Header.m"; sourceTree = "<group>"; };
+		7B130B0C20A54F49000F7D6C /* CustomObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomObject.h; sourceTree = "<group>"; };
+		7B130B0D20A54F49000F7D6C /* CustomObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomObject.m; sourceTree = "<group>"; };
+		7B130B1120A5748D000F7D6C /* UITextField + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField + Extension.swift"; sourceTree = "<group>"; };
+		7B130B1320A59A11000F7D6C /* poster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poster.jpg; sourceTree = "<group>"; };
+		7B230BC320DF83C8009D2610 /* FantasticView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FantasticView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B230C0420DFD4D3009D2610 /* FormatDate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FormatDate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B230C4420E0C442009D2610 /* YNFormattedDate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = YNFormattedDate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B230C4A20E0CFCA009D2610 /* YNMFormattedDate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = YNMFormattedDate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B230C5220E1FD81009D2610 /* IconFormattedDate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = IconFormattedDate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7BAB4C6020EA2EBA00624845 /* NoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoTableViewController.swift; sourceTree = "<group>"; };
+		7BAB4C6220EA32CD00624845 /* NoTableViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoTableViewModel.swift; sourceTree = "<group>"; };
+		7BB9DF9120A29CEB006DD318 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		ACC4BF29EC74DEAD844E8A94 /* Pods_ExampleMoya.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExampleMoya.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4852C4679FBED6D5EE8212E /* Pods-ExampleMoya.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExampleMoya.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ExampleMoya/Pods-ExampleMoya.debug.xcconfig"; sourceTree = "<group>"; };
+		FE533D5C209AEDD000C04BE4 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
+		FEE9D56C20996556002CFB28 /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
+		FEE9D57420999CCE002CFB28 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		FEE9D5762099A4F6002CFB28 /* ContactTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactTableViewCell.swift; sourceTree = "<group>"; };
+		FEE9D5782099A8A8002CFB28 /* ContactViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewModel.swift; sourceTree = "<group>"; };
 		FEED33E22096E900002DE50E /* ExampleMoya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExampleMoya.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEED33E52096E900002DE50E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEED33E72096E900002DE50E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +64,7 @@
 		FEED33EF2096E900002DE50E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEED33F22096E900002DE50E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEED33F42096E900002DE50E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEED33FA2096EA69002DE50E /* MyServerAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyServerAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +72,79 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B230C5320E1FD81009D2610 /* IconFormattedDate.framework in Frameworks */,
+				7B230C4B20E0CFCA009D2610 /* YNMFormattedDate.framework in Frameworks */,
+				D9DC5D0B7791639D612D6873 /* Pods_ExampleMoya.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7B130B0F20A5744A000F7D6C /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				7B130B1120A5748D000F7D6C /* UITextField + Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		A62B57C63B6BF7E8E02A62F3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C4852C4679FBED6D5EE8212E /* Pods-ExampleMoya.debug.xcconfig */,
+				0C8972BCD3DA0D078C9FE955 /* Pods-ExampleMoya.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D6B35307706F712F6BBD2848 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7B230C5220E1FD81009D2610 /* IconFormattedDate.framework */,
+				7B230C4A20E0CFCA009D2610 /* YNMFormattedDate.framework */,
+				7B230C4420E0C442009D2610 /* YNFormattedDate.framework */,
+				7B230C0420DFD4D3009D2610 /* FormatDate.framework */,
+				7B230BC320DF83C8009D2610 /* FantasticView.framework */,
+				ACC4BF29EC74DEAD844E8A94 /* Pods_ExampleMoya.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FEE9D56E20996938002CFB28 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE9D56C20996556002CFB28 /* Contact.swift */,
+				FE533D5C209AEDD000C04BE4 /* Comment.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE9D56F20996977002CFB28 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				FEED33FA2096EA69002DE50E /* MyServerAPI.swift */,
+				FEE9D57420999CCE002CFB28 /* NetworkManager.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		FEE9D57A2099AA95002CFB28 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				FEE9D5782099A8A8002CFB28 /* ContactViewModel.swift */,
+				7BAB4C6220EA32CD00624845 /* NoTableViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		FEED33D92096E900002DE50E = {
 			isa = PBXGroup;
 			children = (
 				FEED33E42096E900002DE50E /* ExampleMoya */,
 				FEED33E32096E900002DE50E /* Products */,
+				A62B57C63B6BF7E8E02A62F3 /* Pods */,
+				D6B35307706F712F6BBD2848 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,13 +159,26 @@
 		FEED33E42096E900002DE50E /* ExampleMoya */ = {
 			isa = PBXGroup;
 			children = (
+				7B130B0F20A5744A000F7D6C /* Extension */,
+				FEE9D57A2099AA95002CFB28 /* ViewModel */,
+				FEE9D56F20996977002CFB28 /* Networking */,
+				FEE9D56E20996938002CFB28 /* Model */,
 				FEED33E52096E900002DE50E /* AppDelegate.swift */,
 				FEED33E72096E900002DE50E /* ViewController.swift */,
+				7BB9DF9120A29CEB006DD318 /* HomeViewController.swift */,
+				7BAB4C6020EA2EBA00624845 /* NoTableViewController.swift */,
+				7B130B0720A5420E000F7D6C /* SearchTableViewController.swift */,
 				FEED33E92096E900002DE50E /* Main.storyboard */,
 				FEED33EF2096E900002DE50E /* Assets.xcassets */,
 				FEED33F12096E900002DE50E /* LaunchScreen.storyboard */,
 				FEED33F42096E900002DE50E /* Info.plist */,
 				FEED33EC2096E900002DE50E /* ExampleMoya.xcdatamodeld */,
+				7B130B0920A54EFB000F7D6C /* ExampleMoya-Bridging-Header.h */,
+				7B130B0A20A54EFC000F7D6C /* Example-Bridging-Header.m */,
+				7B130B0C20A54F49000F7D6C /* CustomObject.h */,
+				7B130B0D20A54F49000F7D6C /* CustomObject.m */,
+				7B130B1320A59A11000F7D6C /* poster.jpg */,
+				FEE9D5762099A4F6002CFB28 /* ContactTableViewCell.swift */,
 			);
 			path = ExampleMoya;
 			sourceTree = "<group>";
@@ -74,9 +190,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FEED33F72096E900002DE50E /* Build configuration list for PBXNativeTarget "ExampleMoya" */;
 			buildPhases = (
+				8D5F2E21ED2D67C258BE84A2 /* [CP] Check Pods Manifest.lock */,
 				FEED33DE2096E900002DE50E /* Sources */,
 				FEED33DF2096E900002DE50E /* Frameworks */,
 				FEED33E02096E900002DE50E /* Resources */,
+				9503C38CC9E5C50E2A98E4CB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -99,6 +217,7 @@
 				TargetAttributes = {
 					FEED33E12096E900002DE50E = {
 						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 0930;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -128,20 +247,91 @@
 			files = (
 				FEED33F32096E900002DE50E /* LaunchScreen.storyboard in Resources */,
 				FEED33F02096E900002DE50E /* Assets.xcassets in Resources */,
+				7B130B1420A59A11000F7D6C /* poster.jpg in Resources */,
 				FEED33EB2096E900002DE50E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		8D5F2E21ED2D67C258BE84A2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ExampleMoya-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9503C38CC9E5C50E2A98E4CB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-ExampleMoya/Pods-ExampleMoya-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/IconFormattedDate/IconFormattedDate.framework",
+				"${BUILT_PRODUCTS_DIR}/JGProgressHUD/JGProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework",
+				"${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework",
+				"${BUILT_PRODUCTS_DIR}/Moya/Moya.framework",
+				"${BUILT_PRODUCTS_DIR}/Result/Result.framework",
+				"${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework",
+				"${BUILT_PRODUCTS_DIR}/YNMFormattedDate/YNMFormattedDate.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IconFormattedDate.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JGProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MDFTextAccessibility.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MaterialComponents.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Moya.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Result.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SkeletonView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YNMFormattedDate.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ExampleMoya/Pods-ExampleMoya-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		FEED33DE2096E900002DE50E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BAB4C6120EA2EBA00624845 /* NoTableViewController.swift in Sources */,
 				FEED33E82096E900002DE50E /* ViewController.swift in Sources */,
+				7BAB4C6320EA32CD00624845 /* NoTableViewModel.swift in Sources */,
+				7B130B1220A5748D000F7D6C /* UITextField + Extension.swift in Sources */,
+				FEE9D5792099A8A8002CFB28 /* ContactViewModel.swift in Sources */,
+				7B130B0E20A54F49000F7D6C /* CustomObject.m in Sources */,
 				FEED33EE2096E900002DE50E /* ExampleMoya.xcdatamodeld in Sources */,
+				FEE9D57520999CCE002CFB28 /* NetworkManager.swift in Sources */,
+				FEE9D56D20996556002CFB28 /* Contact.swift in Sources */,
+				7BB9DF9220A29CEB006DD318 /* HomeViewController.swift in Sources */,
+				FEE9D5772099A4F6002CFB28 /* ContactTableViewCell.swift in Sources */,
 				FEED33E62096E900002DE50E /* AppDelegate.swift in Sources */,
+				7B130B0820A5420E000F7D6C /* SearchTableViewController.swift in Sources */,
+				7B130B0B20A54EFC000F7D6C /* Example-Bridging-Header.m in Sources */,
+				FE533D5D209AEDD000C04BE4 /* Comment.swift in Sources */,
+				FEED33FB2096EA69002DE50E /* MyServerAPI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,14 +466,18 @@
 		};
 		FEED33F82096E900002DE50E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4852C4679FBED6D5EE8212E /* Pods-ExampleMoya.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UJBD2YSBS3;
 				INFOPLIST_FILE = ExampleMoya/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rinjanilabs.ExampleMoya;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "ExampleMoya/ExampleMoya-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -291,14 +485,17 @@
 		};
 		FEED33F92096E900002DE50E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C8972BCD3DA0D078C9FE955 /* Pods-ExampleMoya.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UJBD2YSBS3;
 				INFOPLIST_FILE = ExampleMoya/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rinjanilabs.ExampleMoya;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "ExampleMoya/ExampleMoya-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

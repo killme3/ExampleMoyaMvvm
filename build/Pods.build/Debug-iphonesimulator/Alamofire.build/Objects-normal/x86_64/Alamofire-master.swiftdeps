@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "c7b57158aab2163dfe5a79c315f0fa53"
+build_time: [1525837021, 508313000]
+inputs:
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/AFError.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Alamofire.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/MultipartFormData.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Notifications.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/ParameterEncoding.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Request.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Response.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/ResponseSerialization.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Result.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/SessionDelegate.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/SessionManager.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/TaskDelegate.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Timeline.swift": [1525068270, 0]
+  "/Users/fulan/Documents/nitip yana/example/ExampleMoya/Pods/Alamofire/Source/Validation.swift": [1525068270, 0]

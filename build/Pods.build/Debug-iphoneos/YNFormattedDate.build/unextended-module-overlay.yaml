@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/fulan/Documents/example/example/ExampleMoya/build/Debug-iphoneos/YNFormattedDate/YNFormattedDate.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/fulan/Documents/example/example/ExampleMoya/build/Pods.build/Debug-iphoneos/YNFormattedDate.build/unextended-module.modulemap',
+    }]
+  }]
+}

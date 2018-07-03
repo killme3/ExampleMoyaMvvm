@@ -1,0 +1,10 @@
+framework module IconFormattedDate {
+  umbrella header "IconFormattedDate-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module IconFormattedDate.__Swift {
+    exclude header "IconFormattedDate-Swift.h"
+}

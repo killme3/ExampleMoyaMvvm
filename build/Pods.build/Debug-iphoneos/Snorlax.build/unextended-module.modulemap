@@ -1,0 +1,10 @@
+framework module Snorlax {
+  umbrella header "Snorlax-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Snorlax.__Swift {
+    exclude header "Snorlax-Swift.h"
+}

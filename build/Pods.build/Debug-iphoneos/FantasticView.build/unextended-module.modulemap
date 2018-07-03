@@ -1,0 +1,10 @@
+framework module FantasticView {
+  umbrella header "FantasticView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FantasticView.__Swift {
+    exclude header "FantasticView-Swift.h"
+}

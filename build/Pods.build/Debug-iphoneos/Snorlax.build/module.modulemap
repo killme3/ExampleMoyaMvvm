@@ -1,0 +1,11 @@
+framework module Snorlax {
+  umbrella header "Snorlax-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Snorlax.Swift {
+    header "Snorlax-Swift.h"
+    requires objc
+}

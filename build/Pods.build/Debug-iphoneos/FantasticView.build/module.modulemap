@@ -1,0 +1,11 @@
+framework module FantasticView {
+  umbrella header "FantasticView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FantasticView.Swift {
+    header "FantasticView-Swift.h"
+    requires objc
+}

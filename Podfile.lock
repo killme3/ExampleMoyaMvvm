@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.7.1)
+  - IconFormattedDate (0.1.1)
+  - IQKeyboardManagerSwift (6.0.2)
+  - JGProgressHUD (2.0.2)
+  - MaterialComponents/FlexibleHeader (55.0.4):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/UIMetrics
+    - MDFTextAccessibility
+  - MaterialComponents/private/Application (55.0.4)
+  - MaterialComponents/private/UIMetrics (55.0.4):
+    - MaterialComponents/private/Application
+  - MDFTextAccessibility (1.2.0)
+  - Moya (11.0.2):
+    - Moya/Core (= 11.0.2)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Result (3.2.4)
+  - SkeletonView (1.2)
+  - YNMFormattedDate (0.1.0)
+
+DEPENDENCIES:
+  - IconFormattedDate (~> 0.1.0)
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - MaterialComponents/FlexibleHeader
+  - Moya (~> 11.0)
+  - SkeletonView
+  - YNMFormattedDate
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - MaterialComponents
+    - MDFTextAccessibility
+    - Moya
+    - Result
+    - SkeletonView
+    - YNMFormattedDate
+  https://gitlab.com/yanamyn/PrivateLib:
+    - IconFormattedDate
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  IconFormattedDate: 4d6cfed3225a4cf9fdf287ebc2cf6b6b3df15671
+  IQKeyboardManagerSwift: 59d4b0e140bc546c3c76ae5bb35b3dafd10b8172
+  JGProgressHUD: bf75da151936cfd3c9b674afb17e8a5df2e14a7d
+  MaterialComponents: 059f649876b2e1ed6a623ba689175493422cc7cd
+  MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SkeletonView: d68962d45d1af038f6a110d2274b183df8f82752
+  YNMFormattedDate: ecaf65193d631153ecfb7c1cb7f49b3784e1c042
+
+PODFILE CHECKSUM: 4533f5fa0e948aed34da877f682ebbc2b655c236
+
+COCOAPODS: 1.5.3
