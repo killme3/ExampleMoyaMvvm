@@ -5,3 +5,4 @@
 - Example Search controller
 - Example pop up TextField
 - Example Bridging-Header
+- Example Strechy Header
